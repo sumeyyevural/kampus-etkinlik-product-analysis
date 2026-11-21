@@ -101,7 +101,7 @@ bırakılmıştır.
 kampus-etkinlik-product-analysis/
 ├── README.md
 ├── docs/
-│   ├── Project-Documentation.docx
+│   ├── Project Documentation.docx
 │   └── Project-Overview.pdf
 └── jira-screenshots/
     ├── Sprint-1.png
