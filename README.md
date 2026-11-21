@@ -107,7 +107,6 @@ kampus-etkinlik-product-analysis/
     ├── Sprint-1.png
     ├── Sprint-2.png
     ├── Sprint-3.png
-    └── Backlog.png
 ```
 
 > Klasör ve ekran görüntüsü adlarını GitHub'a yüklediğin gerçek dosya
