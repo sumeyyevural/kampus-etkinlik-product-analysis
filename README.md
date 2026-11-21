@@ -47,7 +47,7 @@ görüşmelere dayanmamaktadır.
 ## Analiz çıktıları
 
 -   Ürün vizyonu ve problem tanımı
--   Kullanıcı personları
+-   User Personas
 -   Fonksiyonel ve fonksiyonel olmayan gereksinimler
 -   11 kullanıcı hikâyesi
 -   Kullanıcı hikâyeleri için kabul kriterleri
